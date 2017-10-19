@@ -10,3 +10,5 @@
 ● AlphaGoNaturePaper.pdf -- An example of Search being used in Google's AlphaGo paper
 
 ● 4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf -- CNNのAlexNetに関して
+
+● nature24270.pdf -- Mastering the game of Go without human knowledge
